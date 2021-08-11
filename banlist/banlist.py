@@ -16,7 +16,7 @@ class Banlist(commands.Cog):
     banlist = await ctx.guild.bans()
     for banEntry in banlist:
       if not banEntry.user.id in banned_ids:
-        formatted_ban = str(banEntry.user.id)
+        formatted_ban = banEntry.user.name + "#" + str(banEntry.user.discriminator) + " : `" + str(banEntry.user.id) + "`"
         formatted_banlist.append(formatted_ban)
         banned_ids.append(banEntry.user.id)
     
