@@ -182,10 +182,10 @@ class Misc(Cog):
     @commands.command(name="gaytime", aliases=["gay"])
     async def _aki(self, ctx):
         """
-        Retrieves a random photo of Aki, Sage's cat.
+        Retrieves a random photo of Yae being gay.
         """
         embed = discord.Embed(
-            title=":black_cat: Aki has come to see you!", color=3553599
+            color=3553599
         )
         embed.set_image(url=choice(self.gay))
         await ctx.send(embed=embed)
