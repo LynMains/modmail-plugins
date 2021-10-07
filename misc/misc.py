@@ -132,35 +132,51 @@ class Misc(Cog):
         "https://cdn.discordapp.com/attachments/568778270598889472/823619090026463292/20210322_140730.jpg",
         "https://cdn.discordapp.com/attachments/568778270598889472/823619088545873930/20210322_140743.jpg",
         "https://cdn.discordapp.com/attachments/568778270598889472/823339403962220594/20210321_193450.jpg",
-        "https://cdn.discordapp.com/attachments/568778270598889472/817535487329566760/20210305_181342.jpg",
+        "https://cdn.discordapp.com/attachments/568778270598889472/817535487329566760/20210305_181342.jpg"
     ]
     
     gay = [
-        "https://cdn.discordapp.com/attachments/799069920402341893/833069759120801842/maxresdefault-2.png",
-        "https://img3.gelbooru.com//samples/01/f6/sample_01f6d4f8538db12cba435f84f5f35bea.jpg",
-        "https://cdn.discordapp.com/attachments/799069920402341893/833967051433312306/yae_sakura_kallen_kaslana_yae_sakura_kallen_kaslana_and_yae_kasumi_honkai_and_1_more__8e3f2dc73ee909.png",
-        "https://img3.gelbooru.com//samples/ab/fc/sample_abfc6631bf22bb6c50eb253b6199abdf.jpg",
-        "https://img3.gelbooru.com//samples/2f/b9/sample_2fb9ad159221fb7171d469e08a607856.jpg",
-        "https://img3.gelbooru.com//samples/96/5f/sample_965fb7297114b36af690cb67f3bbc4b1.jpg",
-        "https://64.media.tumblr.com/c38c0f2ebb7b887062be31170f41bce3/tumblr_ph9fwsnQYF1qey13zo1_1280.png",
-        "https://64.media.tumblr.com/227d5caeb3ab546838cdea43f3e2da1f/tumblr_pks5xn0JSD1tkxb7uo2_r2_1280.png",
-        "https://64.media.tumblr.com/5b5cc8c05f94de0c1f440ee76d74bae2/tumblr_pks5xn0JSD1tkxb7uo1_r2_1280.png",
-        "https://64.media.tumblr.com/47ef3db2c483cecd2e3f8db32552df02/8d549bf6c4c0b29e-40/s1280x1920/774013fc276e7ff276f9744ef024ceaabdd67244.png",
-        "https://64.media.tumblr.com/f692d1c84dcd0438522df65beee25428/8d549bf6c4c0b29e-e1/s1280x1920/966082fd3f043ef5d93ca33163be171a769da452.png",
-        "https://cdn.discordapp.com/attachments/799009843452313640/833501542778667038/EdHbNRKXkAAs6nA.jpg",
-        "https://64.media.tumblr.com/3454a7fcd5289110d6f049eaeae873ae/1833996a65d53586-0c/s1280x1920/0b3f54cb9cd15acdde68305b495ef37e8c76c48b.jpg",
-        "https://64.media.tumblr.com/24240d8213608eb4c540ea2f5eb8c8dd/tumblr_phnk164ob41trpsq8_1280.png",
-        "https://64.media.tumblr.com/c4798b8373780457068297c0ec9e2313/392d268c3e6fa066-6e/s1280x1920/9308136aa1c215391c91784f6d2df6e255e370cf.png",
-        "https://64.media.tumblr.com/2d2fc05a4d1723f40af7671d8fc83a69/tumblr_per9lkHwj91rwcs8fo6_1280.jpg",
-        "https://64.media.tumblr.com/aa2fe7e50f1e3fc150f9adf46174ad14/tumblr_per9lkHwj91rwcs8fo5_1280.jpg",
-        "https://64.media.tumblr.com/ad50c9aa4e42e66c0ef61e30b787ed74/ee70362d6603625b-35/s1280x1920/79e0db2e48cd11d5c5a195631173571e8dc63514.jpg",
-        "https://danbooru.me/data/sample/__yae_sakura_kallen_kaslana_and_kallen_kaslana_honkai_and_1_more_drawn_by_jiaming_liu__sample-d00bec3dc082f2bc705889df58048f9b.jpg",
-        "https://danbooru.me/data/sample/__yae_sakura_kallen_kaslana_and_yae_sakura_honkai_and_1_more_drawn_by_senseofexistenc__sample-83be79afd99977c58e9c3f907d65178f.jpg",
-        "https://danbooru.me/data/sample/__yae_sakura_and_kallen_kaslana_honkai_and_1_more_drawn_by_dokun7__sample-cb80d9b720205b45455536be100ad891.jpg",
-        "https://danbooru.me/data/sample/__yae_sakura_theresa_apocalypse_seele_vollerei_yae_sakura_and_otto_apocalypse_honkai_and_1_more_drawn_by_tsubasa_tsubasa__sample-38f6f7b6b14d4673e131dab1e662ba42.jpg",
-        "https://danbooru.me/data/sample/__yae_sakura_kallen_kaslana_and_yae_sakura_honkai_and_1_more_drawn_by_791_meiyuewudi__sample-ccdc08bc9c6d103c9d249714b931d081.jpg",
-        "https://danbooru.me/data/sample/__yae_sakura_and_kallen_kaslana_honkai_and_2_more_drawn_by_shibanme_tekikumo__sample-a521bdadc742caeb1bf8f60315143011.jpg",
-        "https://safebooru.org//samples/3024/sample_b820a529526c890d5da3786ff121c8fc30e61e97.jpg?3148813",
+        "https://safebooru.org//samples/3489/sample_8e5e3458e6788ef916f4db8f5afbebf22c422b52.jpg?3629971",
+        "https://safebooru.org//samples/3418/sample_e5861d6b0eba7070cdeffea52983ffe54a5a68c4.jpg?3555913",
+        "https://safebooru.org//samples/3405/sample_8e14cfa2ec64d6b931d23bb4f3e2bca94e313f73.jpg?3541674",
+        "https://safebooru.org//samples/3409/sample_f31afe3850d93d8dd28952631b6bcd32d35b0276.jpg?3546907",
+        "https://safebooru.org//images/3458/90025cec9d8eb3c332f88c12172aa2b53f4d5aea.jpg?3600101",
+        "https://safebooru.org//samples/3481/sample_006d9f7c47ef9004a9036fcb81d84fde9e9e1edd.jpg?3621759",
+        "https://safebooru.org//samples/3480/sample_58f403f15c4af169280f255a637b910860730a10.jpg?3620207",
+        "https://safebooru.org//samples/3484/sample_61f8149cf82a122038da55ebad055d4897ad1ded.jpg?3624822",
+        "https://safebooru.org//samples/3468/sample_e702582f860ebf8d82bd3ec1dbea64487c045f77.jpg?3607650",
+        "https://safebooru.org//images/3482/e96ccda93743bb7e2e747828fa9260e42d78178b.jpg?3622033",
+        "https://safebooru.org//images/3489/8e5e3458e6788ef916f4db8f5afbebf22c422b52.jpg",
+        "https://safebooru.org//images/3502/ec447ffd246cb6651a0eceb2c5d77846a9583c6c.jpg",
+        "https://safebooru.org//images/3469/ac09de3729f400cebf891d74cd5a09dcb83087c3.png",
+        "https://safebooru.org//images/3461/75d7faa91f4ebda49603be632798948fa0a3aac1.png?3600271",
+        "https://safebooru.org//images/3461/6d244dd93278c5e4423909b8bae980e1d09ead98.png?3600229",
+        "https://safebooru.org//images/3461/095871d0bb1e6a72be2f4c05949dde04450a7637.png?3600252",
+        "https://safebooru.org//images/3451/dd9b0a0e672882be6c101cbe0253c0163d98c05c.png",
+        "https://safebooru.org//images/3459/34e88ab68f0d399020e61b17192c61e9c9b07c2c.jpg",
+        "https://safebooru.org//images/3459/dc412d95d1ad2c266176d6a2e1830d5c53f357cd.jpg",
+        "https://safebooru.org//images/2677/6fd0c736910d54e45a54a08f81df9e17df2ab4df.jpg",
+        "https://safebooru.org//images/2494/303cffc76bc3faf9ee0a65af0b62048160f0a679.jpg",
+        "https://safebooru.org//images/2782/2305140b40bd9661657eee9d071fc2927c78015a.jpg",
+        "https://safebooru.org//images/2777/0461f417db426c897f9cc3f81a47be261503ef50.jpg",
+        "https://safebooru.org//images/2876/81103966389306059000b87e06910bfcde0e1fa2.jpg",
+        "https://safebooru.org//images/2876/d9e6b4a611f9bea46ec92a0c0d7fa5d32d6ebbcd.png",
+        "https://safebooru.org//images/3024/b820a529526c890d5da3786ff121c8fc30e61e97.jpg",
+        "https://safebooru.org//images/3363/9d7cd66836ee2a76440141e94efac4e1c0f0c57c.jpg",
+        "https://safebooru.org//images/3230/a5dcc5169c3da770646f92de21b08b32697669b7.jpg",
+        "https://safebooru.org//images/3377/77e1d12948d99397b2955f0c2428e40c88024fde.png",
+        "https://safebooru.org//images/3376/48d0ebfcfc9ef482ac620cffcc7b9ea3d4dc406f.jpg",
+        "https://safebooru.org//images/3406/73816de021641a5c768466ef432236bce92e3ca0.jpg",
+        "https://safebooru.org//images/3410/fef0d45f806af69e8a8648bec4b9b141e9ca1e43.png?3547775",
+        "https://safebooru.org//images/3406/4999044d0e957b60f5736502b511cbbd1a75c930.jpg",
+        "https://safebooru.org//images/3406/ce25e0a7e9fbfe08f545517c79128124577e72a9.png",
+        "https://safebooru.org//images/3412/3c7547b31d6dbab55146d00ff3c798a34bb4f9aa.jpg",
+        "https://safebooru.org//images/3426/3afd7cc860c7de6c9cf68ce761d14f5f80a18c96.jpg",
+        "https://safebooru.org//images/3426/f2f00f137be1a6e0fb37a46a5a2526c69bcac442.jpg?3564218",
+        "https://safebooru.org//images/3426/b314d3651fa8a095b597522e79bb1b2ce484b4fc.jpg?3564285",
+        "https://safebooru.org//images/3427/0d69344252faebe64317a0b626b6498c30e90938.jpg",
+        "https://safebooru.org//images/3427/27d250dbc4c18885b9be8823f58d2ecdcab86f96.jpg",
+        "https://safebooru.org//images/3433/118f28098c591feba696e10d60fdf10d523039cd.jpg"
     ] 
 
     def __init__(self, bot):
@@ -188,6 +204,9 @@ class Misc(Cog):
             color=3553599
         )
         embed.set_image(url=choice(self.gay))
+        embed.set_footer(
+            text="Credit page coming...soon!"
+        )
         await ctx.send(embed=embed)
 
 
